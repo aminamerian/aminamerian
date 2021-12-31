@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Amin's github activity graph](https://activity-graph.herokuapp.com/graph?username=aminamerian&custom_title=%20&bg_color=2F435A&color=39918C&line=F7CB2D&point=2F435A&area=true&hide_border=true)](https://github.com/aminamerian)
+[![Amin's github activity graph](https://activity-graph.herokuapp.com/graph?username=aminamerian&custom_title=%20&bg_color=E4E4E2&color=D0B49F&line=EA9130&point=814827&area=true&hide_border=true)](https://github.com/aminamerian)
 
