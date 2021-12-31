@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Amin's github activity graph](https://activity-graph.herokuapp.com/graph?username=realsaeedhassani&theme=react-dark)](https://github.com/aminamerian)
+
