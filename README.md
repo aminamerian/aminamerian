@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **aminamerian/aminamerian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,10 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%814827&lines=apt-get+install+aminamerian+...)](https://git.io/typing-svg)
-
 <!-- https://ashutosh00710.github.io/github-readme-activity-graph/ -->
 [![Amin's github activity graph](https://activity-graph.herokuapp.com/graph?username=aminamerian&custom_title=%20&bg_color=ffffff&color=D0B49F&line=EA9130&point=814827&area=true&hide_border=true)](https://github.com/aminamerian)
 
